@@ -1,0 +1,5 @@
+mojo/shell/dynamic_service_loader.cc
+mojo/shell/loader.cc
+mojo/shell/run.cc
+mojo/shell/switches.cc
+mojo/shell/switches.h

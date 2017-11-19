@@ -1,0 +1,16 @@
+ash/acceleratorsaccelerator_controller.cc
+ashash_switches.cc
+ash/displaydisplay_controller.cc
+ashshell.cc
+ash/system/powertray_power.cc
+ash/tooltipstooltip_controller.cc
+ash/wmbase_layout_manager.cc
+ash/wmsystem_modal_container_layout_manager.cc
+ash/wmwindow_animations.cc
+chrome/browser/chromeos/extensionsfile_browser_notifications.cc
+chrome/browser/chromeoslocale_change_guard.cc
+chrome/browser/chromeos/loginlogin_utils.cc
+chrome/browser/chromeosnetwork_message_observer.cc
+chrome/browser/chromeosprofile_startup.cc
+chrome/browser/chromeossms_observer.cc
+chrome/browser/ui/views/ashballoon_collection_impl_ash.cc

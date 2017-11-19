@@ -1,0 +1,10 @@
+chrome/browser/chrome_content_browser_client.cc
+chrome/browser/translate/translate_browsertest.cc
+chrome/browser/translate/translate_manager.cc
+chrome/browser/ui/startup/bad_flags_prompt.cc
+components/translate/core/browser/translate_download_manager.cc
+components/translate/core/browser/translate_script.cc
+components/translate/core/browser/translate_script_unittest.cc
+components/translate/core/common/translate_switches.cc
+components/translate/core/common/translate_util.cc
+components/translate/core/common/translate_util_unittest.cc

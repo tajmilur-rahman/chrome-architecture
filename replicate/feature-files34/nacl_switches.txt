@@ -1,0 +1,13 @@
+chrome/app/chrome_main_delegate.cc
+chrome/browser/about_flags.cc
+chrome/browser/component_updater/pnacl/pnacl_component_installer.cc
+chrome/browser/nacl_host/test/gdb_debug_stub_browsertest.cc
+chrome/browser/nacl_host/test/nacl_gdb_browsertest.cc
+chrome/common/chrome_paths_win.cc
+components/nacl/broker/nacl_broker_listener.cc
+components/nacl/browser/nacl_broker_host_win.cc
+components/nacl/browser/nacl_process_host.cc
+components/nacl/common/nacl_switches.cc
+components/nacl/common/nacl_switches.h
+components/nacl/loader/nacl_helper_win_64.cc
+components/nacl/zygote/nacl_fork_delegate_linux.cc

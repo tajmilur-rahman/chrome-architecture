@@ -1,0 +1,9 @@
+chrome/app/chrome_dll_main.cc
+chrome/browser/first_run_win.cc
+chrome/browser/plugin_process_host.cc
+chrome/browser/renderer_host/browser_render_process_host.cc
+chrome/browser/utility_process_host.cc
+chrome/common/common_glue.cc
+chrome/renderer/devtools_client.cc
+chrome/test/automation/automation_proxy_uitest.cc
+chrome/utility/utility_main.cc

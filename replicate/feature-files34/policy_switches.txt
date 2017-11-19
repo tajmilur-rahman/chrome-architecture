@@ -1,0 +1,15 @@
+chrome/browser/chromeos/login/chrome_restart_request.cc
+chrome/browser/chromeos/login/login_utils_browsertest.cc
+chrome/browser/chromeos/policy/device_local_account_browsertest.cc
+chrome/browser/policy/cloud/cloud_policy_browsertest.cc
+chrome/browser/policy/cloud/cloud_policy_invalidator.cc
+chrome/browser/policy/cloud/cloud_policy_manager_browsertest.cc
+chrome/browser/policy/cloud/component_cloud_policy_browsertest.cc
+chrome/browser/policy/cloud/user_cloud_policy_invalidator_factory.cc
+components/policy/core/browser/browser_policy_connector.cc
+components/policy/core/common/cloud/cloud_policy_constants.cc
+components/policy/core/common/cloud/cloud_policy_manager.cc
+components/policy/core/common/cloud/cloud_policy_refresh_scheduler.cc
+components/policy/core/common/cloud/cloud_policy_validator_unittest.cc
+components/policy/core/common/cloud/user_cloud_policy_store_unittest.cc
+components/policy/core/common/policy_switches.cc

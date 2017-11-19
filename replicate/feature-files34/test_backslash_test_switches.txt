@@ -1,0 +1,5 @@
+base/test/launcher/test_launcher.cc
+base/test/launcher/unit_test_launcher.cc
+base/test/test_suite.cc
+base/test/test_switches.cc
+base/test/test_timeouts.cc

@@ -1,0 +1,4 @@
+webkit/tools/test_shellrun_all_tests.cc
+webkit/tools/test_shelltest_shell_main.cc
+webkit/tools/test_shelltest_shell_switches.cc
+webkit/tools/test_shelltest_shell_win.cc

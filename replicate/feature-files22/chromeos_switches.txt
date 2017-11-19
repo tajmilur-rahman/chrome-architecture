@@ -1,0 +1,5 @@
+chrome/browser/chromeos/loginlogin_utils.cc
+chromeoschromeos_switches.cc
+chromeos/dbusdbus_thread_manager.cc
+chromeos/dbusgsm_sms_client.cc
+chromeos/dbussms_client.cc

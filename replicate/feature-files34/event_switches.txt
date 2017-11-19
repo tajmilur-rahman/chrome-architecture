@@ -1,0 +1,12 @@
+chrome/browser/about_flags.cc
+chrome/browser/chromeos/login/chrome_restart_request.cc
+chrome/browser/metrics/chrome_browser_main_extra_parts_metrics.cc
+content/browser/renderer_host/input/touch_input_browsertest.cc
+content/browser/renderer_host/render_process_host_impl.cc
+content/shell/app/shell_main_delegate.cc
+ui/aura/gestures/gesture_recognizer_unittest.cc
+ui/base/touch/touch_enabled.cc
+ui/events/event_switches.cc
+ui/events/event_switches.h
+ui/events/gestures/gesture_sequence.cc
+ui/events/x/touch_factory_x11.cc

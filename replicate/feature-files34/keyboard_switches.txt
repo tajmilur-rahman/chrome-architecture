@@ -1,0 +1,6 @@
+ash/display/virtual_keyboard_window_controller_unittest.cc
+ash/root_window_controller_unittest.cc
+chrome/browser/chromeos/extensions/virtual_keyboard_browsertest.cc
+ui/keyboard/keyboard_controller_unittest.cc
+ui/keyboard/keyboard_switches.cc
+ui/keyboard/keyboard_util.cc

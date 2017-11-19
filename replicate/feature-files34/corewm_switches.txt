@@ -1,0 +1,6 @@
+ash/shell.cc
+chrome/browser/chromeos/login/chrome_restart_request.cc
+chrome/browser/chromeos/login/user_manager_impl.cc
+ui/views/corewm/corewm_switches.cc
+ui/views/corewm/tooltip_aura.cc
+ui/views/corewm/window_animations.cc

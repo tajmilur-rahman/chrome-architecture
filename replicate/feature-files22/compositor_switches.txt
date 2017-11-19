@@ -1,0 +1,6 @@
+chrome\browser\chromeos\loginlogin_utils.cc
+ui\auraenv.cc
+ui\compositorcompositor.cc
+ui\compositorcompositor_switches.cc
+ui\compositorcompositor_switches.h
+ui\compositorlayer.cc

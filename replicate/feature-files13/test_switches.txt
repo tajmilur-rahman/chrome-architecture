@@ -1,0 +1,5 @@
+chrome/test/automationproxy_launcher.cc
+chrome/test/page_cyclerpage_cycler_test.cc
+chrome/testtest_switches.cc
+chrome/testtest_switches.h
+chrome/test/uinamed_interface_uitest.cc

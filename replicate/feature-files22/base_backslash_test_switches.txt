@@ -1,0 +1,10 @@
+chrome/test/automationproxy_launcher.cc
+chrome/test/basechrome_process_util.cc
+chrome/test/basetest_switches.cc
+chrome/test/basetest_switches.h
+chrome/test/logging/wintest_log_collector.cc
+chrome/test/perfpage_cycler_test.cc
+chrome/test/perf/renderingthroughput_tests.cc
+chrome/test/perfstartup_test.cc
+chrome/test/uiui_perf_test.cc
+chrome/test/uiui_test.cc

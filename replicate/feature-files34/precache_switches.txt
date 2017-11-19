@@ -1,0 +1,5 @@
+components/precache/content/precache_manager.cc
+components/precache/content/precache_manager_unittest.cc
+components/precache/core/precache_fetcher.cc
+components/precache/core/precache_fetcher_unittest.cc
+components/precache/core/precache_switches.cc

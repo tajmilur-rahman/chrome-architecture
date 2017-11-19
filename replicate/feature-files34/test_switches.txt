@@ -1,0 +1,12 @@
+chrome/browser/ui/ash/accelerator_commands_browsertest.cc
+chrome/test/automation/proxy_launcher.cc
+chrome/test/base/chrome_process_util.cc
+chrome/test/base/chrome_test_launcher.cc
+chrome/test/base/in_process_browser_test.cc
+chrome/test/base/test_switches.cc
+chrome/test/base/test_switches.h
+chrome/test/gpu/webgl_infobar_browsertest.cc
+chrome/test/logging/win/test_log_collector.cc
+chrome/test/perf/startup_test.cc
+chrome/test/ppapi/ppapi_test.cc
+chrome/test/ui/ui_test.cc

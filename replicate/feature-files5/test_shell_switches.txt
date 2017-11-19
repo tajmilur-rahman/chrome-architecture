@@ -1,0 +1,4 @@
+webkit/tools/test_shell/node_leak_test.cc
+webkit/tools/test_shell/run_all_tests.cc
+webkit/tools/test_shell/test_shell_main.cc
+webkit/tools/test_shell/test_shell_win.cc

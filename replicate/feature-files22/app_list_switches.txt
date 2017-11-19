@@ -1,0 +1,2 @@
+chrome/browser/ui/ash/app_listsearch_builder.cc
+ui/app_listapp_list_switches.cc

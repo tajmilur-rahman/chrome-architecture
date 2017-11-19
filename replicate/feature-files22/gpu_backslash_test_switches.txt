@@ -1,0 +1,5 @@
+chrome/test/gpugpu_feature_browsertest.cc
+chrome/test/gpugpu_pixel_browsertest.cc
+chrome/test/ppapippapi_test.cc
+content/test/gputest_switches.cc
+content/test/gputest_switches.h

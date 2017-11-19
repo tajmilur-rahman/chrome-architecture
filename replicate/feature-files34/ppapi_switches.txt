@@ -1,0 +1,9 @@
+chrome/browser/extensions/app_background_page_apitest.cc
+chrome/renderer/chrome_content_renderer_client.cc
+chrome/test/ppapi/ppapi_test.cc
+components/nacl/browser/nacl_process_host.cc
+content/browser/renderer_host/render_process_host_impl.cc
+content/renderer/pepper/plugin_module.cc
+ppapi/proxy/plugin_main_nacl.cc
+ppapi/shared_impl/ppapi_switches.cc
+ppapi/shared_impl/ppapi_switches.h
