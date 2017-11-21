@@ -1,0 +1,492 @@
+  from_module    ,    to_module    ,relation_strength 
+base             , base            ,             4013
+print            , test            ,               12
+skia             , browser view    ,                7
+ppapi            , ui              ,                4
+base             , installer       ,               21
+installer        , base            ,              834
+apps             , utility         ,               43
+components       , components      ,               34
+installer        , installer       ,              787
+gpu              , ipc             ,               14
+render engine    , test            ,              482
+chromeos         , browser engine  ,              142
+browser engine   , layout engine   ,              203
+cloud print      , layout engine   ,                2
+base             , base view       ,                2
+utility          , network         ,               12
+skia             , skia            ,              164
+network          , ppapi           ,              118
+ui               , test            ,              141
+utility          , browser view    ,               49
+components       , browser view    ,               23
+components       , network         ,                5
+plugins          , tools           ,                5
+cloud print      , ui              ,                1
+apps             , browser engine  ,                9
+extensions       , ipc             ,               60
+test             , base            ,             2336
+download         , skia            ,                1
+render engine    , tools           ,                7
+render engine    , data persistence,               76
+browser engine   , ui              ,              284
+test             , installer       ,               26
+browser view     , components      ,               55
+render engine    , extensions      ,                3
+remote host      , media           ,                4
+browser view     , skia            ,               40
+ui               , data persistence,              906
+content          , render engine   ,                2
+widget           , base view       ,               94
+tools            , ipc             ,               11
+data persistence , ipc             ,              127
+ui               , extensions      ,              189
+plugins          , test            ,               14
+base view        , base            ,              508
+network          , skia            ,                4
+gpu              , media           ,                5
+browser view     , browser view    ,            10605
+render engine    , gpu             ,               10
+print            , data persistence,               25
+browser view     , network         ,              684
+ppapi            , layout engine   ,                3
+browser view     , download        ,               89
+network          , network         ,             8119
+network          , browser view    ,              137
+extensions       , apps            ,                4
+test             , base view       ,               68
+content          , plugins         ,               22
+download         , network         ,               46
+download         , browser view    ,               54
+chromeos         , utility         ,               67
+ui               , gpu             ,                4
+base view        , base view       ,              296
+widget           , base            ,              134
+tools            , apps            ,                2
+data persistence , apps            ,                7
+nacl             , base            ,               41
+download         , download        ,              277
+components       , layout engine   ,                2
+ui               , app             ,                2
+render engine    , debug           ,                7
+ppapi            , ppapi           ,             3818
+print            , content         ,              141
+tools            , base            ,              161
+data persistence , base            ,             3069
+utility          , layout engine   ,               15
+render engine    , app             ,               59
+browser engine   , download        ,               47
+extensions       , installer       ,                1
+browser engine   , network         ,              473
+print            , printing        ,               57
+extensions       , base            ,             2133
+test             , ipc             ,               32
+browser engine   , browser view    ,              231
+download         , ui              ,               55
+nacl             , ipc             ,               14
+data persistence , base view       ,              141
+tools            , base view       ,                5
+content          , utility         ,               15
+render engine    , content         ,              348
+ui               , printing        ,               26
+remote host      , remote host     ,              243
+browser engine   , skia            ,               20
+extensions       , base view       ,               64
+test             , apps            ,               20
+browser view     , ui              ,             3008
+plugins          , chromeos        ,                3
+network          , ui              ,               94
+render engine    , printing        ,               33
+ui               , content         ,             1715
+render engine    , chromeos        ,               56
+browser engine   , ppapi           ,                7
+gpu              , base            ,              413
+remote host      , base            ,              368
+ppapi            , browser view    ,               14
+plugins          , content         ,               53
+network          , layout engine   ,               13
+ui               , chromeos        ,               98
+skia             , ui              ,               14
+ppapi            , network         ,               42
+browser view     , layout engine   ,              215
+base             , ipc             ,               46
+apps             , plugins         ,                7
+ppapi            , skia            ,              114
+print            , chromeos        ,                7
+apps             , render engine   ,                2
+utility          , ui              ,               32
+remote host      , base view       ,                1
+gpu              , base view       ,                2
+components       , ui              ,               14
+base             , apps            ,                4
+services         , content         ,                4
+content          , browser engine  ,              217
+download         , content         ,               61
+browser view     , printing        ,                8
+browser engine   , data persistence,              184
+render engine    , ui              ,              295
+debug            , base            ,              107
+browser engine   , extensions      ,               39
+apps             , apps            ,               28
+browser view     , content         ,             2357
+network          , content         ,               76
+ui               , ui              ,             4798
+skia             , chromeos        ,                2
+plugins          , layout engine   ,               50
+network          , app             ,                8
+app              , base            ,               79
+utility          , chromeos        ,               15
+print            , ui              ,               75
+tools            , browser engine  ,                2
+data persistence , browser engine  ,              397
+browser view     , app             ,               77
+ppapi            , test            ,                1
+media            , base            ,             1361
+network          , debug           ,                9
+browser view     , debug           ,                4
+base             , plugins         ,                1
+extensions       , browser engine  ,              261
+apps             , ipc             ,                1
+utility          , content         ,               89
+test             , render engine   ,               49
+nacl             , plugins         ,                2
+print            , layout engine   ,                5
+ppapi            , tools           ,                2
+ppapi            , data persistence,                1
+components       , content         ,               65
+test             , print           ,                9
+utility          , printing        ,                8
+content          , base            ,             2466
+printing         , base view       ,                2
+chromeos         , ipc             ,                1
+browser engine   , test            ,              115
+ipc              , ipc             ,              204
+skia             , printing        ,                7
+render engine    , layout engine   ,             2736
+extensions       , utility         ,              217
+download         , chromeos        ,               17
+ppapi            , gpu             ,               21
+utility          , debug           ,                4
+ui               , layout engine   ,               76
+chromeos         , apps            ,                1
+network          , chromeos        ,               44
+plugins          , ui              ,               40
+printing         , base            ,              254
+utility          , app             ,                3
+test             , plugins         ,               13
+content          , base view       ,               20
+tools            , utility         ,               11
+browser view     , chromeos        ,              173
+data persistence , utility         ,              365
+chromeos         , base            ,             1429
+browser engine   , chromeos        ,               12
+services         , network         ,               43
+services         , browser view    ,                1
+render engine    , ppapi           ,              748
+ppapi            , debug           ,                2
+chromeos         , installer       ,                1
+nacl             , utility         ,               15
+cloud print      , chromeos        ,                5
+download         , test            ,               21
+data persistence , render engine   ,                1
+content          , ipc             ,              626
+ui               , ppapi           ,                8
+network          , test            ,               77
+plugins          , skia            ,                7
+data persistence , print           ,               10
+extensions       , render engine   ,                2
+browser view     , test            ,              486
+components       , data persistence,               19
+plugins          , network         ,                2
+content          , apps            ,                1
+utility          , extensions      ,                4
+plugins          , browser view    ,               16
+media            , media           ,             1333
+chromeos         , base view       ,              178
+utility          , data persistence,               29
+test             , utility         ,              249
+tools            , plugins         ,               10
+ipc              , base            ,              289
+ui               , download        ,               62
+components       , test            ,                4
+browser engine   , debug           ,                6
+ui               , browser view    ,             3382
+utility          , test            ,               20
+content          , media           ,              208
+apps             , base view       ,                9
+ui               , network         ,              195
+browser engine   , app             ,               16
+render engine    , network         ,              577
+render engine    , browser view    ,               86
+apps             , base            ,              159
+test             , browser engine  ,               88
+download         , extensions      ,                8
+ui               , components      ,                3
+installer        , utility         ,               29
+browser engine   , content         ,              874
+apps             , installer       ,               17
+render engine    , skia            ,              102
+download         , data persistence,               52
+browser view     , extensions      ,              259
+base             , utility         ,               67
+network          , data persistence,               59
+network          , tools           ,                6
+ui               , skia            ,               61
+print            , network         ,               24
+browser engine   , printing        ,               31
+browser view     , data persistence,             1329
+base view        , browser engine  ,                2
+network          , extensions      ,               19
+print            , browser view    ,               47
+render engine    , base            ,             4166
+debug            , ui              ,                2
+test             , tools           ,               11
+test             , data persistence,              221
+gpu              , chromeos        ,                1
+remote host      , chromeos        ,                4
+download         , browser engine  ,               76
+test             , extensions      ,               62
+print            , base view       ,               17
+data persistence , debug           ,                3
+apps             , skia            ,                1
+components       , utility         ,               17
+network          , browser engine  ,               42
+ui               , base            ,             3682
+data persistence , app             ,              113
+utility          , utility         ,              243
+browser view     , browser engine  ,             1305
+ui               , installer       ,                7
+base             , test            ,               54
+print            , base            ,              310
+data persistence , content         ,              728
+tools            , content         ,                6
+render engine    , base view       ,               54
+app              , ui              ,                4
+installer        , test            ,                2
+extensions       , content         ,              712
+apps             , download        ,                1
+content          , layout engine   ,              354
+media            , ui              ,               51
+apps             , network         ,                2
+ui               , base view       ,             1198
+widget           , data persistence,                2
+apps             , browser view    ,               23
+gpu              , debug           ,                5
+nacl             , nacl            ,                7
+base             , tools           ,                1
+components       , browser engine  ,                9
+base             , data persistence,                2
+network          , utility         ,               37
+utility          , browser engine  ,                6
+tools            , chromeos        ,                7
+browser view     , utility         ,              754
+data persistence , chromeos        ,               74
+base             , extensions      ,                2
+plugins          , base view       ,                8
+gpu              , app             ,                2
+content          , ui              ,              204
+chromeos         , network         ,              212
+services         , base            ,               23
+extensions       , chromeos        ,               27
+installer        , extensions      ,                1
+chromeos         , browser view    ,             1266
+download         , utility         ,               29
+test             , test            ,             2060
+ipc              , browser view    ,               14
+browser engine   , services        ,                7
+gpu              , content         ,               39
+chromeos         , skia            ,                9
+plugins          , base            ,              380
+base view        , test            ,                3
+printing         , ui              ,              115
+browser engine   , plugins         ,                1
+test             , chromeos        ,               45
+browser view     , plugins         ,                1
+base             , debug           ,               15
+remote host      , extensions      ,                1
+content          , network         ,              143
+chromeos         , ui              ,              403
+content          , browser view    ,              100
+printing         , skia            ,               11
+render engine    , media           ,              120
+base view        , chromeos        ,               13
+plugins          , ipc             ,               53
+gpu              , gpu             ,              812
+printing         , browser view    ,                6
+base             , content         ,               13
+data persistence , test            ,              159
+tools            , test            ,               13
+browser view     , print           ,               15
+ipc              , ui              ,                1
+media            , ppapi           ,               13
+browser engine   , utility         ,              218
+widget           , chromeos        ,                1
+installer        , content         ,               10
+extensions       , test            ,              212
+content          , skia            ,               20
+browser view     , render engine   ,               14
+base             , chromeos        ,               33
+widget           , printing        ,                1
+test             , debug           ,               11
+data persistence , extensions      ,              107
+ui               , ipc             ,               37
+data persistence , data persistence,             2553
+tools            , tools           ,              854
+tools            , data persistence,                6
+test             , app             ,                5
+debug            , browser view    ,                7
+extensions       , extensions      ,             1578
+installer        , chromeos        ,               33
+content          , ppapi           ,               57
+utility          , plugins         ,                5
+nacl             , content         ,               23
+extensions       , tools           ,                3
+extensions       , data persistence,              729
+render engine    , ipc             ,              190
+base view        , debug           ,                2
+media            , skia            ,                7
+base view        , printing        ,                1
+browser engine   , browser engine  ,             1938
+ui               , apps            ,               57
+chromeos         , layout engine   ,               17
+remote host      , test            ,                2
+apps             , ui              ,                2
+test             , content         ,              182
+media            , browser view    ,                9
+cloud print      , cloud print     ,               16
+render engine    , apps            ,                1
+base view        , content         ,                2
+app              , browser view    ,                2
+print            , ipc             ,               18
+render engine    , render engine   ,              404
+ui               , print           ,               36
+base             , ui              ,               44
+data persistence , ppapi           ,                1
+tools            , ppapi           ,                6
+ppapi            , base            ,              363
+remote host      , network         ,              124
+media            , test            ,                4
+components       , apps            ,                2
+remote host      , browser view    ,                4
+content          , data persistence,               34
+installer        , ui              ,               21
+gpu              , browser view    ,               11
+extensions       , ppapi           ,                2
+content          , extensions      ,               17
+apps             , chromeos        ,                1
+test             , layout engine   ,               55
+browser view     , media           ,                6
+remote host      , skia            ,                4
+chromeos         , content         ,              362
+gpu              , skia            ,                2
+network          , media           ,               28
+content          , gpu             ,               37
+print            , print           ,              104
+utility          , ipc             ,               83
+components       , ipc             ,               10
+render engine    , plugins         ,                1
+ipc              , debug           ,                1
+gpu              , ppapi           ,               78
+browser engine   , base            ,             2583
+chromeos         , chromeos        ,             1333
+extensions       , browser view    ,              263
+plugins          , plugins         ,              945
+extensions       , network         ,              401
+apps             , content         ,               23
+browser engine   , installer       ,                3
+test             , ui              ,              190
+cloud print      , base            ,               60
+remote host      , ppapi           ,                1
+browser view     , apps            ,               42
+base view        , ui              ,               76
+media            , gpu             ,                6
+data persistence , network         ,              312
+data persistence , browser view    ,              470
+tools            , browser view    ,                2
+printing         , test            ,                1
+download         , apps            ,                2
+data persistence , download        ,               31
+app              , tools           ,                1
+browser view     , ipc             ,              258
+data persistence , skia            ,                4
+base             , layout engine   ,                9
+apps             , debug           ,                2
+browser engine   , base view       ,               92
+extensions       , components      ,                1
+widget           , ui              ,               98
+content          , test            ,               62
+extensions       , skia            ,                8
+installer        , layout engine   ,                3
+services         , services        ,                3
+download         , ipc             ,                6
+data persistence , components      ,               14
+data persistence , ui              ,              380
+tools            , ui              ,               10
+print            , browser engine  ,               38
+base view        , network         ,                9
+base view        , browser view    ,               20
+print            , cloud print     ,                1
+download         , base view       ,               26
+debug            , debug           ,               25
+plugins          , utility         ,                2
+browser view     , base view       ,             1414
+content          , chromeos        ,               15
+extensions       , ui              ,              377
+test             , download        ,                9
+widget           , skia            ,                1
+ipc              , test            ,               15
+test             , network         ,              182
+test             , browser view    ,              324
+browser engine   , ipc             ,              370
+network          , base view       ,                9
+widget           , network         ,                1
+chromeos         , test            ,               42
+nacl             , browser view    ,                2
+apps             , data persistence,                1
+widget           , browser view    ,              306
+download         , base            ,              454
+test             , skia            ,                1
+services         , utility         ,                2
+test             , components      ,                3
+browser engine   , apps            ,                3
+network          , base            ,             5903
+base view        , skia            ,                5
+ui               , browser engine  ,              554
+browser view     , installer       ,               67
+printing         , chromeos        ,                7
+app              , app             ,               42
+browser view     , base            ,             8609
+apps             , test            ,                4
+content          , app             ,                3
+remote host      , ui              ,               44
+chromeos         , data persistence,              168
+test             , ppapi           ,                4
+utility          , base view       ,               17
+components       , base view       ,               24
+printing         , printing        ,              212
+gpu              , ui              ,              125
+debug            , chromeos        ,                1
+chromeos         , extensions      ,                9
+ppapi            , ipc             ,              339
+content          , debug           ,               13
+print            , utility         ,               37
+network          , remote host     ,                3
+browser engine   , media           ,               54
+base             , network         ,               52
+skia             , base            ,               70
+apps             , nacl            ,                1
+base             , browser view    ,               87
+utility          , installer       ,                5
+ui               , utility         ,              490
+components       , base            ,               58
+app              , chromeos        ,                1
+utility          , base            ,              729
+tools            , layout engine   ,                1
+data persistence , layout engine   ,              103
+base             , skia            ,                8
+skia             , base view       ,                1
+media            , chromeos        ,                9
+render engine    , utility         ,              144
+content          , content         ,             2130
+services         , browser engine  ,                4
+extensions       , layout engine   ,               76
