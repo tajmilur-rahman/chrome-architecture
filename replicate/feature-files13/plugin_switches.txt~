@@ -1,5 +1,0 @@
-chrome\test\ui	ppapi_uitest.cc
-content\browser\renderer_host	browser_render_process_host.cc
-webkit\plugins\npapi	plugin_list.cc
-webkit\plugins	plugin_switches.cc
-webkit\plugins	plugin_switches.h
