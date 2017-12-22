@@ -1,0 +1,7 @@
+Chromium Documentation:
+https://www.chromium.org/developers/design-documents/pepper-plugin-implementation
+
+Developers Documents:
+https://code.google.com/p/ppapi/
+
+

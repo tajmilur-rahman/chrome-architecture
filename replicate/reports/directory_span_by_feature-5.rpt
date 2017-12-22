@@ -1,7 +1,0 @@
-     switch_set      | count 
- app_switches        |     9
- base_switches       |    29
- chrome_switches     |   157
- ipc_switches        |    14
- media_switches      |     7
- test_shell_switches |     4
