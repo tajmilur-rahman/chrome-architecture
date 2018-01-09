@@ -1,30 +1,16 @@
-# Replication Package for Extracting Feature Toggle View of Google Chrome Browser Architecture
+## Replication Package for paper "The Modular and Feature Toggle Architectures of Google Chrome"
+The following folders contain the code and mappings for each architecture we extracted.
 
-## Pre-requisites
-1. Chrome source code downloaded from google-chrome repository (https://chromium.googlesource.com/chromium/src)
-2. Understand software installation (https://scitools.com/trial-download-3/)
-3. Understand API (https://scitools.com/feature/api/)
+### Conceptual Architecture folder
+The conceptual architecture describes the major entities and relationships among those entities. We derive the conceptual architecture from the existing documentation for Google Chrome including the web resources and official wiki. The resource that we used and the final set of entity and edge mapping can be found in this folder. 
 
-## Directories and Files
-### Conceptual
-This folder contains the documentations and research papers we studied to construct the conceptual architecture
+### Concrete Architecture folder
+The concrete architecture is based on the source code files. We map the directories to the conceptual modules and then extract the call graph to the relationships between the modules. The folder contains the scripts to extract the Chrome source code files and directories, the resulting mappings in SQL, and the final mapping in CSV. 
 
-### Concrete
-This folder contains the (module-module) mapping document and the scripts that we used for constructing the concrete architecture.
+### Reference Architecture folder
+From our extracted extracted conceptual and concrete architectures of Chrome, we update the 12 year old browser reference architecture that was proposed by Grosskurth and Godfrey (2005). 
 
-#### Mapping
-The csv file in this folder contains the module-module relationships and the strength of each relationship in terms of number of calls.
+### Feature Toggles folder
+The feature toggle architecture represents the feature toggle dependencies among the modules. Feature toggles are embedded in the source code files. Once we identify the feature toggles, we can assign feature dependencies among concrete and conceptual modules. We extract the feature toggle architecture of Chrome and illustrate the new couplings and relationships that are revealed by this new perspective 
 
-#### Scripts
-This folder contains sub-directories R - for r scripts, git_dag - for the scripts to traverse through the git commit-tree. 
-It also contains the sql scripts for file-file, direcroty-module and module-module relationships.
-
-### Feature Toggles
-This folder contains the mapping documents and the scripts that we used for constructing the feature toggle based architecture.
-
-#### Mapping
-The feature-files5, feature-files13, feature-files22, and feature-files34 directories contain the lists of files that use feature toggles in text files. Each text file is for one feature toggle set. 
-More directory dependencies toggle-set 
-
-#### Scripts
-This folder contains the Understand API script to extract dependencies.
+The folder contains the source code to extract feature toggles from Chrome, the mappings between modules and features toggles, and the final feature architecture mapping.
