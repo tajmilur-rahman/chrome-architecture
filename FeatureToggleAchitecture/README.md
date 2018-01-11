@@ -1,5 +1,5 @@
 ## Feature Toggle Architecture
-The feature toggle architecture represents the feature toggle dependencies among the modules. The source folder contains the code to extract feature toggles from Chrome. 
+The feature toggle architecture represents the feature toggle dependencies among the modules. The source folder contains the code to extract feature toggles from Chrome. The file *FatureArchitecturalViewRel34.pdf* contains the figure for the feature toggle architectural view of Google Chrome 34th release version. 
 
 ### Pre-Requisite
 Extract Conceptual and Concrete Architecture
