@@ -1,4 +1,4 @@
-## Feature Toggles
+## Feature Toggle Architecture
 The feature toggle architecture represents the feature toggle dependencies among the modules. The source folder contains the code to extract feature toggles from Chrome. 
 
 The mappings folder contains:
