@@ -1,5 +1,5 @@
 ## Concrete Architecture
-The concrete architecture is derived from manually mapping the source code directories to the conceptual modules. The scripts folder contains the code to generate these mappings. The output mappings are listed below.
+The concrete architecture is derived from manually mapping the source code directories to the conceptual modules. The file *concrete-arch-chrome-34.0.pdf* contains the figure for the Concrete Architecture of the 34th release version of Chrome. The scripts folder contains the code to generate these mappings. The output mappings are listed below.
 
 ### The Mapping folder contains postgres sql files for
 1. The call graph mapping between files (file_file_relation.sql)
