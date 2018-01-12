@@ -1,4 +1,17 @@
 The files we used are contained above.
 
-The web resources we used are available at these links
-1. todo
+The web resources we used are available at the following links:
+
+https://developer.chrome.com/extensions/devguide
+http://www.chromium.org/developers/design-documents
+http://en.wikipedia.org/wiki/Chrome
+http://www.chromium.org/developers/content-module
+http://www.chromium.org/developers/design-documents/browser-window
+https://developer.chrome.com/extensions
+http://www.chromium.org/native-client/nacl-and-pnacl
+http://bit.ly/2r8OQhf
+http://www.slideshare.net/Jolicloud/chrome-release-cycle
+http://bit.ly/2fgG8UX
+http://www.tajmilur-rahman.com/emse/cfa.html
+http://www.theregister.co.uk/2011/09/16/native_client_debuts_in_chrome
+http://bit.ly/2uOriy2
